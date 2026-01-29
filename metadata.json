@@ -1,0 +1,7 @@
+{
+  "name": "EcoCalc CO2 - Calculadora de Emissões",
+  "description": "Calculadora de pegada de carbono para viagens, integrando mapas interativos, rotas reais e comparativos de sustentabilidade.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
